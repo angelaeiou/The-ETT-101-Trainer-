@@ -29,7 +29,10 @@ A *sine wave* is a smooth, continuous periodic waveform commonly used to represe
   <summary><strong>Waveform Output</strong></summary>
 
   <p align="center">
-    <img src="data_waveform1.jpg" alt="Waveform Output" width="600">
+    <img src="Results/laboratory results 1/data_waveform1.jpg" alt="Waveform Output" width="600">
   </p>
+ <em>
+     Figure 1.2.1: Square-wave output from the internal CAL source at 1 kHz, corresponding to a 1 ms time period.
+</em> 
 
 </details>
