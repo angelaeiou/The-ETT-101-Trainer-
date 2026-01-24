@@ -25,3 +25,11 @@ An oscilloscope displays electrical signals in the time domain. The *amplitude* 
 A *sine wave* is a smooth, continuous periodic waveform commonly used to represent AC signals. A *square wave* is a periodic signal that alternates between two discrete voltage levels and is often used in digital and timing applications.
 
 ### Experimental Results 
+<details>
+  <summary><strong>Waveform Output</strong></summary>
+
+  <p align="center">
+    <img src="data_waveform1.jpg" alt="Waveform Output" width="600">
+  </p>
+
+</details>
