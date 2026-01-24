@@ -42,3 +42,42 @@ A *sine wave* is a smooth, continuous periodic waveform commonly used to represe
    </em> 
 </details>
 
+# Part 2: Introduction to the Emona Telecommunications Trainer 101 👩🏻‍💻
+
+## Abstract
+
+This experiment focused on exploring and understanding the operation of the Emona Telecoms-Trainer 101 modules. The objective was to familiarize the user with the Master Signals, Speech, Buffer, Adder, Phase Shifter, and Voltage-Controlled Oscillator (VCO) modules. By systematically connecting and observing the behavior of each module, fundamental principles of communications and signal processing were demonstrated. The experiment reinforces critical concepts such as signal summation, phase shifting, modulation, and voltage-controlled oscillation, which are essential in telecommunications systems.
+
+### Introduction
+
+This repository contains documentation and explanations for the Telecoms-Trainer 101 modules used in telecommunications experiments. It covers the operation, theoretical background, and practical usage of:
+
+- Master Signals Module
+- Speech Module
+- Buffer Module
+- Adder Module
+- Phase Shifter Module
+- Voltage-Controlled Oscillator (VCO) Module
+
+### Part 2.1: Master Signals, Speech, and Buffer Module
+
+The Master Signals, Speech, and Buffer modules provide the primary sources of audio and analog signals in the Telecoms-Trainer 101 system. The Master Signals module generates reference signals, while the Speech module introduces human voice signals for processing. The Buffer module ensures proper signal isolation, preventing interference between modules while maintaining signal integrity.
+
+#### The Master Signal Module 
+
+Master Signals Module
+
+The Master Signals module produces stable, predictable waveforms such as:
+
+Sine waves – smooth periodic oscillations used for frequency response testing.
+
+Square waves – useful for digital signal testing and timing analysis.
+
+Triangular waves – commonly used in modulation and waveform analysis.
+
+These waveforms serve as input signals for testing circuits, helping users study how systems respond to different signal types. Connecting the module to an oscilloscope allows observation of amplitude, frequency, and waveform shape.
+
+
+
+
+
