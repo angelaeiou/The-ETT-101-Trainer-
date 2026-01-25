@@ -47,6 +47,9 @@ A *sine wave* is a smooth, continuous periodic waveform commonly used to represe
 ## Abstract
 
 This experiment focused on exploring and understanding the operation of the Emona Telecoms-Trainer 101 modules. The objective was to familiarize the user with the Master Signals, Speech, Buffer, Adder, Phase Shifter, and Voltage-Controlled Oscillator (VCO) modules. By systematically connecting and observing the behavior of each module, fundamental principles of communications and signal processing were demonstrated. The experiment reinforces critical concepts such as signal summation, phase shifting, modulation, and voltage-controlled oscillation, which are essential in telecommunications systems.
+ <p align="center">
+    <img src="Results/laboratory results 1/emona telecoms.jpg" alt="Waveform Output" width="600">
+  </p>
 
 ### Introduction
 
