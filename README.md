@@ -31,15 +31,19 @@ A *sine wave* is a smooth, continuous periodic waveform commonly used to represe
   <p align="center">
     <img src="Results/laboratory results 1/data_waveform1.jpg" alt="Waveform Output" width="600">
   </p>
+   <p align="center">
 <em>
      Figure 1.1.1: Square-wave output from the internal CAL source at 1 kHz, corresponding to a 1 ms time period.
    </em> 
+   </p>
    <p align="center">
     <img src="Results/laboratory results 1/data_waveform2.jpg" alt="Waveform Output" width="600">
   </p>
+  <p align="center">
 <em>
      Figure 1.1.2: Square-wave signal displayed measured at approximately 2 V/div with a time base of 500 µs/div. The waveform shows a periodic signal with a frequency around 1 kHz.
    </em> 
+     </p>
 </details>
 
 # Part 2: Introduction to the Emona Telecommunications Trainer 101 👩🏻‍💻
@@ -79,6 +83,40 @@ Square waves – useful for digital signal testing and timing analysis.
 Triangular waves – commonly used in modulation and waveform analysis.
 
 These waveforms serve as input signals for testing circuits, helping users study how systems respond to different signal types. Connecting the module to an oscilloscope allows observation of amplitude, frequency, and waveform shape.
+<details>
+  <summary><strong>Master Signal Block Diagram</strong></summary>
+
+ <p align="center">
+    <img src="Results/laboratory files 2/Setups/Master Signals Block Diagram.jpeg" alt="Waveform Output" width="600">
+  </p>
+<p align="center">
+  <em>Figure 2.1.1: Master Signal Block Diagram</em>
+</p>
+
+<p align="center">
+    <img src="Results/laboratory files 2/Setups/Master Signal Setup.jpeg" alt="Waveform Output" width="600">
+  </p>
+<p align="center">
+  <em>Figure 2.1.2: Master Signal Basic Setup</em>
+</p>
+   <p align="center">
+    <img src="Results/laboratory files 2/Setups/Master Signal Setup SinCos.jpeg" alt="Waveform Output" width="600">
+  </p>
+<p align="center">
+  <em>Figure 2.1.3: Master Signal with Sin Cos Representation</em>
+</p>
+
+### Results 
+ <p align="center">
+    <img src="Results/laboratory files 2/Results/Master Signals SinCos.jpeg" alt="Waveform Output" width="600">
+  </p>
+<p align="center">
+  <em>Figure 2.1.3: Master Signal with Sin Cos Representation in Oscilloscope</em>
+</p>
+
+The oscilloscope displays the sine and cosine outputs from the Master Signals module set at 100 kHz. Both waveforms have the same frequency and amplitude but exhibit a phase difference of approximately 90°, which is characteristic of sine and cosine signals. This result confirms the proper operation of the Master Signals module in generating quadrature signals for signal analysis and communication applications.
+
+</details>
 
 
 
