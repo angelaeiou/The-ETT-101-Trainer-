@@ -15,5 +15,8 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
   
 > Detailed data results and oscilloscope waveforms for this experiment can be found [here](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Results/Data%20Results%20.pdf).
 
+> The questions and answers for this experiment can be found [here](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Results/Questions%20and%20Answers.pdf).
+
+
 
 
