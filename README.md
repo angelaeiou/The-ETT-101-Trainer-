@@ -11,7 +11,7 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
   
 * [Mathematical Equation Modeling Using the ETT 101](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Mathematical%20Equation%20Modeling%20Using%20the%20ETT%20101.md)
 
-* [Amplitude Modulation (AM)]() 
+* [Amplitude Modulation (AM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Amplitude%20Modulation%20.md) 
   
 
 
