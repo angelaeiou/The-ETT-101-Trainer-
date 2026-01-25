@@ -30,6 +30,7 @@ A simple message signal was used to modulate a carrier, producing an AM waveform
     <em>Figure 4.2: Generating Message Block Diagram</em>
   </p>
 
+
   ### Results 
   <p align="center">
       <img src="Results/laboratory files part 4/Master Signals.jpeg" alt="Waveform Output" width="600">
@@ -43,9 +44,16 @@ A simple message signal was used to modulate a carrier, producing an AM waveform
   <p align="center">
     <em>Figure 4.3: Generating Message with VDC</em>
   </p>
+ <p align="center">
+      <img src=" Results/laboratory files part 4/generating AM signal.jpg" alt="Waveform Output" width="600">
+    </p>
+  <p align="center">
+    <em>Figure 4.3: Generating AM Signal </em>
+  </p>
+ 
   </details>
 
-  ### Generating an AM Signal using 100kHz sine
+  ### Generating an AM Signal using Speech
   A speech signal was used as the message to modulate a high-frequency carrier, producing an AM waveform. The carrier amplitude followed the variations of the speech, and the oscilloscope displayed the envelope matching the spoken signal, demonstrating real-world amplitude modulation.
 
   <details>
@@ -76,6 +84,41 @@ A simple message signal was used to modulate a carrier, producing an AM waveform
   </details>
 
   ### Investigating Depth Modulation
+  The modulation depth was varied to observe its effect on the AM signal. Increasing the depth caused greater variation in the carrier amplitude, while decreasing it reduced envelope fluctuations. The oscilloscope clearly showed how the modulation index influences signal strength and waveform shape. The modulation depth of an AM signal can be expressed mathematically as:
+  <p align="center">
+  <em> m = P-Q/P+Q </em>
+</p>
+
+  <details>
+    <summary><strong>Depth Modulation</strong></summary>
+  
+  ### Results 
+  <p align="center">
+      <img src="Results/laboratory files part 4/AM With 0.32m.jpeg" alt="Waveform Output" width="600">
+    </p>
+  <p align="center">
+    <em>Figure 4.7: Modulation index at 0.32 </em>
+  </p>
+   <p align="center">
+      <img src="Results/laboratory files part 4/AM with 0.7m.jpeg" alt="Waveform Output" width="600">
+    </p>
+  <p align="center">
+    <em>Figure 4.8: Modulation index at 0.7 </em>
+  </p>
+   <p align="center">
+      <img src="Results/laboratory files part 4/AM with 1m.jpeg" alt="Waveform Output" width="600">
+    </p>
+  <p align="center">
+    <em>Figure 4.9: Modulation index at 1 </em>
+  </p>
+   <p align="center">
+      <img src="Results/laboratory files part 4/AM with 2m.jpeg" alt="Waveform Output" width="600">
+    </p>
+  <p align="center">
+    <em>Figure 4.10: Modulation index at 2 </em>
+  </p>
+
+  </details>
 
   
   
