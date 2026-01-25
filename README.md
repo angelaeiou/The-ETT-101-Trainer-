@@ -9,7 +9,7 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
   * [Part 2.2: Adder and Phase Shifter Module](#-part-22-adder-and-phase-shifter-module)
   * [Part 2.3: Voltage-Controlled Oscillator (VCO) Module](#-part-23-voltage-controlled-oscillator-vco-module)
   
-* [Part 3: Mathematical Equation Modeling Using the ETT 101]([#-part-3-mathematical-equation-modeling-using-the-ett-101](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Mathematical%20Equation%20Modeling%20Using%20the%20ETT%20101.md))
+* [Part 3: Mathematical Equation Modeling Using the ETT 101]([#-part-3-mathematical-equation-modeling-using-the-ett-101](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Mathematical%20Equation%20Modeling%20Using%20the%20ETT%20101.md)
 
 * [Part 4: Amplitude Modulation (AM)](#-part-4-amplitude-modulation-am) 
   
