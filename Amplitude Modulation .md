@@ -75,7 +75,7 @@ A simple message signal was used to modulate a carrier, producing an AM waveform
 
   ### Results 
   <p align="center">
-      <img src="Results/laboratory files part 4/AM With 0.32m.jpeg" alt="Waveform Output" width="600">
+      <img src="Results/laboratory files part 4/616491941_1471322721365292_6161606904978110206_n.jpg" alt="Waveform Output" width="600">
     </p>
   <p align="center">
     <em>Figure 4.6: using 100kHz sine</em>
