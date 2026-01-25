@@ -219,3 +219,38 @@ The oscilloscope shows the output of the phase shifter module compared with the 
 </details>
 
 ### Part 2.3: The Voltage Controlled Oscillator
+The Voltage-Controlled Oscillator (VCO) module generates a periodic waveform whose frequency varies according to an applied control voltage. This module plays a vital role in modern communication systems, particularly in frequency modulation and phase-locked loops.
+
+VCO Module
+
+The VCO produces an output signal where:
+- Output frequency increases or decreases with the control voltage.
+- The amplitude remains relatively constant while frequency changes.
+- It demonstrates the principle of frequency modulation (FM).
+By adjusting the control voltage and observing the output on an oscilloscope, users can directly see the relationship between voltage input and frequency output, reinforcing the concept of voltage-controlled frequency variation.
+
+<details>
+  <summary><strong>Voltage Controlled Oscillator Module Process</strong></summary>
+
+   <p align="center">
+    <img src="Results/laboratory files 2/Setups/VCO Block Diagram.png" alt="Waveform Output" width="600">
+  </p>
+<p align="center">
+  <em>Figure 2.1.13:VCO Module Block Diargam</em>
+</p>
+   <p align="center">
+    <img src="Results/laboratory files 2/Setups/VCO Output.jpg" alt="Waveform Output" width="600">
+  </p>
+<p align="center">
+  <em>Figure 2.1.14:VCO Module Setup</em>
+</p>
+
+#### Result
+   <p align="center">
+    <img src="Results/laboratory files 2/Results/VCO RESULT.jpg" width="600">
+  </p>
+<p align="center">
+  <em>Figure 2.1.12:VCO Module Result 1</em>
+</p>
+The oscilloscope shows a clean sinusoidal output from the VCO with a frequency of approximately 18.8 kHz and a stable amplitude. This indicates that the oscillator is operating properly at the applied control voltage. The result is consistent with VCO behavior, where the output frequency depends on the control voltage and changes when the voltage is varied.
+</details>
