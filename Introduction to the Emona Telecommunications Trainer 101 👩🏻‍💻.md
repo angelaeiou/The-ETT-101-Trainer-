@@ -250,7 +250,7 @@ By adjusting the control voltage and observing the output on an oscilloscope, us
     <img src="Results/laboratory files 2/Results/VCO RESULT.jpg" width="600">
   </p>
 <p align="center">
-  <em>Figure 2.1.12:VCO Module Result 1</em>
+  <em>Figure 2.1.12:VCO Module Result </em>
 </p>
 The oscilloscope shows a clean sinusoidal output from the VCO with a frequency of approximately 18.8 kHz and a stable amplitude. This indicates that the oscillator is operating properly at the applied control voltage. The result is consistent with VCO behavior, where the output frequency depends on the control voltage and changes when the voltage is varied.
 </details>
