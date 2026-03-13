@@ -16,19 +16,17 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
  * [Frequency Modulation (FM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Frequency%20Modulation.md)
 * [Frequency Demodulation (FM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Frequency%20Demodulation.md)
 * [Sampling and Reconstruction](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Sampling%20and%20Reconstruction.md)
-* [PCM Encoding]((https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/PCM%20Encoding.md)
+* [PCM Encoding](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/PCM%20Encoding.md)
 * [PCM Decoding](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/PCM%20Decoding.md)
-* [Bandwidth Limiting and Restoring Digital Signals](#bandwidth-limiting-and-restoring-digital-signals)
-* [Amplitude Shift Keying](#amplitude-shift-keying)
-* [Frequency Shift Keying](#frequency-shift-keying)
-* [Binary Shift Keying](#binary-shift-keying)
-* [Quadrature Phase Shift Keying](#quadrature-phase-shift-keying)
-* [DSSS Modulation and Demodulation](#dsss-modulation-and-demodulation)
-* [Undersampling in Software Defined Audio](#undersampling-in-software-defined-audio)
+* [Bandwidth Limiting and Restoring Digital Signals](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Bandwidth%20Limiting%20and%20Restoring%20Digital%20Signals.md)
+* [Amplitude Shift Keying](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Amplitude%20Shift%20Keying.md)
+* [Frequency Shift Keying](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Frequency%20Shift%20Keying.md)
+* [Binary Shift Keying](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Binary%20Shift%20Keying.md)
+* [Quadrature Phase Shift Keying](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Quadrature%20Phase%20Shift%20Keying.md)
+* [DSSS Modulation and Demodulation](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/DSSS%20Modulation%20and%20Demodulation.md)
+* [Undersampling in Software Defined Audio](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Undersampling%20in%20Software%20Defined%20Audio.md)
 
  
-
-
   
 > Detailed data results and oscilloscope waveforms for this experiment can be found [here](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Results/Data%20Results%20.pdf).
 
