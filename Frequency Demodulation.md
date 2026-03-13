@@ -36,7 +36,8 @@ In this part, the FM modulator was configured to generate a **frequency-modulate
 
 <details>
 <summary>View Part A Image Result</summary>
-<p align="center"> <img src="EMONA/IMG_FMD_PartA.png" alt="FM Modulator Setup" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 10/10-Part-A-1-FM.png"alt="FM Modulator Setup" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.2.jpg" alt="Zero Crossing Detector Setup" width="600"> </p>
 </details>
 
 ---
@@ -50,7 +51,8 @@ The Zero-Crossing Detector (ZCD) was configured using a **comparator circuit** t
 
 <details>
 <summary>View Part B Image Result</summary>
-<p align="center"> <img src="EMONA/IMG_FMD_PartB.png" alt="Zero Crossing Detector Setup" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.4.jpg" alt="Zero Crossing Detector Setup" width="600"> </p>
+
 </details>
 
 ---
@@ -79,7 +81,12 @@ The **average DC level varies depending on the pulse density**, which reflects t
 
 <details>
 <summary>View Part C Image Result</summary>
-<p align="center"> <img src="EMONA/IMG_FMD_PartC.png" alt="Zero Crossing Detector Output" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.5.jpg" alt="Zero Crossing Detector Output" width="600"> </p>
+
+<p align="center"> <img src="Results/laboratory report 11/11.6.jpg" alt="Zero Crossing Detector Output" width="600"> </p>
+
+<p align="center"> <img src="Results/laboratory report 11/11.7.jpg" alt="Zero Crossing Detector Output" width="600"> </p>
+
 </details>
 
 ---
@@ -92,7 +99,8 @@ In this part, a **sine wave message signal** was transmitted using FM and then d
 
 <details>
 <summary>View Part D Image Result</summary>
-<p align="center"> <img src="EMONA/IMG_FMD_PartD.png" alt="Recovered Sinewave from FM" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.8.jpg" alt="Recovered Sinewave from FM" width="600"> </p>
+
 </details>
 
 ---
@@ -105,5 +113,5 @@ Finally, a **speech signal** was transmitted using FM modulation and recovered t
 
 <details>
 <summary>View Part E Image Result</summary>
-<p align="center"> <img src="EMONA/IMG_FMD_PartE.png" alt="Recovered Speech from FM" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.5.jpg" alt="Recovered Speech from FM" width="600"> </p>
 </details>
