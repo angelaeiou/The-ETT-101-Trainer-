@@ -48,7 +48,10 @@ Two digital data streams were applied to the modulator, representing the **in-ph
 <summary>View Part A Image Result</summary>
 
 <p align="center">
-<img src="QPSK/IMG_PartA.png" alt="Generated QPSK Signal" width="600">
+<img src="Results/laboratory files 18/18 A1.png" alt="Generated QPSK Signal" width="600">
+<img src="Results/laboratory files 18/18 A2.png" alt="Generated QPSK Signal" width="600">
+<img src="Results/laboratory files 18/18 A3.png" alt="Generated QPSK Signal" width="600">
+<img src="  Results/laboratory files 18/18 A4.png" alt="Generated QPSK Signal" width="600">
 </p>
 
 </details>
@@ -68,7 +71,8 @@ The received QPSK signal was processed using detection circuits that compared th
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="QPSK/IMG_PartB.png" alt="Phase Discrimination of QPSK Signal" width="600">
+<img src="Results/laboratory files 18/18B1.png" width="600">
+<img src="Results/laboratory files 18/18B2.png" width="600">
 </p>
 
 </details>
