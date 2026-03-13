@@ -45,7 +45,8 @@ When the digital input was **logic high**, the modulator produced one carrier fr
 <summary>View Part A Image Result</summary>
 
 <p align="center">
-<img src="FSK/IMG_PartA.png" alt="Generated FSK Signal" width="600">
+<img src="Results/laboratory files 16/E16A.png" alt="Generated FSK Signal" width="600">
+<img src="Results/laboratory files 16/E16APART2.png" alt="Generated FSK Signal" width="600">
 </p>
 
 </details>
@@ -65,7 +66,8 @@ These amplitude variations corresponded to the original digital data pattern.
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="FSK/IMG_PartB.png" alt="FSK Demodulation Using Filters and Envelope Detector" width="600">
+<img src="Results/laboratory files 16/E16BPART1.png" alt="FSK Demodulation Using Filters and Envelope Detector" width="600">
+<img src="Results/laboratory files 16/E16BPART2.png" alt="FSK Demodulation Using Filters and Envelope Detector" width="600">
 </p>
 
 </details>
@@ -85,7 +87,7 @@ The comparator compares the signal to a reference threshold and produces a digit
 <summary>View Part C Image Result</summary>
 
 <p align="center">
-<img src="FSK/IMG_PartC.png" alt="Restored Digital Signal After FSK Demodulation" width="600">
+<img src="Results/laboratory files 16/E16CPART1.png" alt="Restored Digital Signal After FSK Demodulation" width="600">
 </p>
 
 </details>
