@@ -13,31 +13,31 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
 
 * [Amplitude Modulation (AM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Amplitude%20Modulation%20.md)
 
- *[Frequency Modulation (FM)]
+ * [Frequency Modulation (FM)]
 
- *[Frequency Demodulation (FM)]
+ * [Frequency Demodulation (FM)]
 
- *[Sampling and Reconstruction]
+ * [Sampling and Reconstruction]
 
- *[PCM Encoding]
+ * [PCM Encoding]
 
- *[PCM Decoding]
+ * [PCM Decoding]
 
- *[Bandwidth Limiting and restoring Digital Restoring]
+ * [Bandwidth Limiting and restoring Digital Restoring]
 
- *[Amplitude Shift Keying]
+ * [Amplitude Shift Keying]
 
- *[Frequency Shift Keying]
+ * [Frequency Shift Keying]
 
- *[Binary Shift Keying]
+ * [Binary Shift Keying]
 
- *[Quadrature Phase Shift Keying]
+ * [Quadrature Phase Shift Keying]
 
- *[Frequency Shift Keying]
+ * [Frequency Shift Keying]
 
- *[DSSS modulation and demodulation]
+ * [DSSS modulation and demodulation]
 
- *[Undersampling in software defined audio]
+ * [Undersampling in software defined audio]
 
   
 
