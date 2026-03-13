@@ -13,7 +13,7 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
 
 * [Amplitude Modulation (AM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Amplitude%20Modulation%20.md)
 
- * [Frequency Modulation (FM)](#frequency-modulation-fm)
+ * [Frequency Modulation (FM)]([#frequency-modulation-fm](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Amplitude%20Modulation%20.md))
 * [Frequency Demodulation (FM)](#frequency-demodulation-fm)
 * [Sampling and Reconstruction](#sampling-and-reconstruction)
 * [PCM Encoding](#pcm-encoding)
