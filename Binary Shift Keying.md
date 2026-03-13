@@ -40,7 +40,7 @@ In this part of the experiment, the BPSK modulator was configured to produce a c
 <summary>View Part A Image Result</summary>
 
 <p align="center">
-<img src="BPSK/IMG_PartA.png" alt="Generated BPSK Signal" width="600">
+<img src="Results/laboratory files 17/PART-A-fig2.png" alt="Generated BPSK Signal" width="600">
 </p>
 
 </details>
@@ -60,7 +60,7 @@ The resulting output waveform shows positive and negative voltage levels dependi
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="BPSK/IMG_PartB.png" alt="BPSK Demodulation Using Product Detector" width="600">
+<img src="Results/laboratory files 17/PART-B-fig4.png" alt="BPSK Demodulation Using Product Detector" width="600">
 </p>
 
 </details>
@@ -80,7 +80,7 @@ The comparator forces the output to switch between defined logic levels, produci
 <summary>View Part C Image Result</summary>
 
 <p align="center">
-<img src="BPSK/IMG_PartC.png" alt="Restored Digital Signal After BPSK Demodulation" width="600">
+<img src="Results/laboratory files 17/PART-C-fig6.png" alt="Restored Digital Signal After BPSK Demodulation" width="600">
 </p>
 
 </details>
