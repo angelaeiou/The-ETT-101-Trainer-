@@ -42,7 +42,9 @@ When the digital input was high, the carrier signal appeared at the output. When
 <summary>View Part A Image Result</summary>
 
 <p align="center">
-<img src="ASK/IMG_PartA.png" alt="ASK Modulated Signal" width="600">
+<img src="Results/laboratory files 15/FIGURE 3 (LOGIC 0-LOW).png" alt="ASK Modulated Signal" width="600">
+<img src=" Results/laboratory files 15/FIGURE 3 (LOGIC 1 -HIGH).png" alt="ASK Modulated Signal" width="600">
+ 
 </p>
 
 </details>
@@ -62,7 +64,7 @@ Although the output resembles the original digital signal, it may appear slightl
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="ASK/IMG_PartB.png" alt="Envelope Detector Output" width="600">
+<img src="Results/laboratory files 15/FIGURE 4 (1).png" alt="Envelope Detector Output" width="600">
 </p>
 
 </details>
@@ -82,7 +84,8 @@ This process eliminates distortions and noise present in the envelope detector o
 <summary>View Part C Image Result</summary>
 
 <p align="center">
-<img src="ASK/IMG_PartC.png" alt="Restored Digital Signal" width="600">
+<img src="Results/laboratory files 15/FIGURE 6.png" alt="Restored Digital Signal" width="600">
+<img src="Results/laboratory files 15/FIGURE 8.png" alt="Restored Digital Signal" width="600">  
 </p>
 
 </details>
