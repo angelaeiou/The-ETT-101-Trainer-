@@ -40,8 +40,9 @@ In this part, the PCM encoder was configured to convert the input analog signal 
 <summary>View Part A Image Result</summary>
 
 <p align="center">
-<img src="PCM_Decoding/IMG_PartA.png" alt="PCM Encoder Setup" width="600">
-</p>
+<img src="Results/laboratory files 13/FIGURE 2.png" alt="PCM Encoder Setup" width="600">
+<img src="Results/laboratory files 13/FIGURE 3.png" alt="PCM Encoder Setup" width="600">
+ </p>
 
 </details>
 
@@ -60,7 +61,7 @@ The output signal appears as a **staircase waveform**, where each step correspon
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="PCM_Decoding/IMG_PartB.png" alt="PCM Decoder Output" width="600">
+<img src="Results/laboratory files 13/FIGURE 4.png" alt="PCM Decoder Output" width="600">
 </p>
 
 </details>
@@ -80,7 +81,9 @@ This demonstrated how real-world analog signals such as **human voice** can be t
 <summary>View Part C Image Result</summary>
 
 <p align="center">
-<img src="PCM_Decoding/IMG_PartC.png" alt="PCM Speech Encoding and Decoding" width="600">
+<img src="Results/laboratory files 13/fig 5.png" alt="PCM Speech Encoding and Decoding" width="600">
+<img src="Results/laboratory files 13/fig 10.png" alt="PCM Speech Encoding and Decoding" width="600">
+
 </p>
 
 </details>
@@ -100,7 +103,7 @@ The resulting waveform closely resembled the original analog input, demonstratin
 <summary>View Part D Image Result</summary>
 
 <p align="center">
-<img src="PCM_Decoding/IMG_PartD.png" alt="Recovered Analog Signal" width="600">
+<img src="Results/laboratory files 13/FIGURE 2.png" alt="Recovered Analog Signal" width="600">
 </p>
 
 </details>
