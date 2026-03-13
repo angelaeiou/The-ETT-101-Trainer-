@@ -13,33 +13,19 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
 
 * [Amplitude Modulation (AM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Amplitude%20Modulation%20.md)
 
- * [Frequency Modulation (FM)]
-
- * [Frequency Demodulation (FM)]
-
- * [Sampling and Reconstruction]
-
- * [PCM Encoding]
-
- * [PCM Decoding]
-
- * [Bandwidth Limiting and restoring Digital Restoring]
-
- * [Amplitude Shift Keying]
-
- * [Frequency Shift Keying]
-
- * [Binary Shift Keying]
-
- * [Quadrature Phase Shift Keying]
-
- * [Frequency Shift Keying]
-
- * [DSSS modulation and demodulation]
-
- * [Undersampling in software defined audio]
-
-  
+ * [Frequency Modulation (FM)](#frequency-modulation-fm)
+* [Frequency Demodulation (FM)](#frequency-demodulation-fm)
+* [Sampling and Reconstruction](#sampling-and-reconstruction)
+* [PCM Encoding](#pcm-encoding)
+* [PCM Decoding](#pcm-decoding)
+* [Bandwidth Limiting and Restoring Digital Signals](#bandwidth-limiting-and-restoring-digital-signals)
+* [Amplitude Shift Keying](#amplitude-shift-keying)
+* [Frequency Shift Keying](#frequency-shift-keying)
+* [Binary Shift Keying](#binary-shift-keying)
+* [Quadrature Phase Shift Keying](#quadrature-phase-shift-keying)
+* [Frequency Shift Keying](#frequency-shift-keying-1)
+* [DSSS Modulation and Demodulation](#dsss-modulation-and-demodulation)
+* [Undersampling in Software Defined Audio](#undersampling-in-software-defined-audio)
 
  
 
