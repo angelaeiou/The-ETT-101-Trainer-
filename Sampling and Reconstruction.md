@@ -38,7 +38,10 @@ Each pulse represented the instantaneous amplitude of the input signal at the sa
 
 <details>
 <summary>View Part A Image Result</summary>
-<p align="center"> <img src="Sampling/IMG_PartA.png" alt="Sampling Simple Message" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.2.jpg" alt="Sampling Simple Message" width="600"> </p>
+
+<summary>View Part A Image Result</summary>
+<p align="center"> <img src="Results/laboratory report 11/11.1.jpg" alt="Sampling Simple Message" width="600"> </p>
 </details>
 
 ---
@@ -54,7 +57,7 @@ When sampled, the speech waveform produced a **PAM signal whose pulse amplitudes
 
 <details>
 <summary>View Part B Image Result</summary>
-<p align="center"> <img src="Sampling/IMG_PartB.png" alt="Sampling Speech Signal" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.6.jpg" alt="Sampling Speech Signal" width="600"> </p>
 </details>
 
 ---
@@ -70,7 +73,8 @@ The output signal closely resembled the original message signal when the **sampl
 
 <details>
 <summary>View Part C Image Result</summary>
-<p align="center"> <img src="Sampling/IMG_PartC.png" alt="Reconstructed Signal" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.8.jpg" alt="Reconstructed Signal" width="600"> </p>
+
 </details>
 
 ---
@@ -86,10 +90,13 @@ Instead, the output appears as a **lower-frequency waveform**, which is not pres
 
 <details>
 <summary>View Part D Image Result</summary>
-<p align="center"> <img src="Sampling/IMG_PartD.png" alt="Aliasing Observation" width="600"> </p>
+<p align="center"> <img src="Results/laboratory report 11/11.7.jpg" alt="Aliasing Observation" width="600"> </p>
 </details>
 
 ---
+
+### Other experiment results 
+* [Experiment 11 Results](https://github.com/angelaeiou/The-ETT-101-Trainer-/tree/main/Results/laboratory%20report%2011) 
 
 ### Key Takeaways
 - Sampling converts **continuous-time signals into discrete-time signals**.
