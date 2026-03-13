@@ -44,7 +44,8 @@ This demonstrates how a PCM encoder converts a single analog value into a **spec
 <summary>View Part A Image Result</summary>
 
 <p align="center">
-<img src="PCM/IMG_PCM_PartA.png" alt="PCM Static DC Voltage Encoding" width="600">
+<img src="Results/laboratory files 12/12-A1.png" alt="PCM Static DC Voltage Encoding" width="600">
+<img src="  Results/laboratory files 12/12-A2.png" alt="PCM Static DC Voltage Encoding" width="600">
 </p>
 
 </details>
@@ -64,7 +65,8 @@ Each small change in input voltage caused the digital output to shift to the **n
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="PCM/IMG_PCM_PartB.png" alt="PCM Variable DC Voltage Encoding" width="600">
+<img src="Results/laboratory files 12/12-B1.png" alt="PCM Variable DC Voltage Encoding" width="600">
+<img src="Results/laboratory files 12/12-B2.png" alt="PCM Variable DC Voltage Encoding" width="600">
 </p>
 
 </details>
@@ -84,7 +86,7 @@ Because the actual analog value may not exactly match a quantization level, a **
 <summary>View Part C Image Result</summary>
 
 <p align="center">
-<img src="PCM/IMG_PCM_PartC.png" alt="Quantisation Levels" width="600">
+<img src="Results/laboratory files 12/12-B3.png" alt="PCM Variable DC Voltage Encoding" width="600">
 </p>
 
 </details>
@@ -104,7 +106,7 @@ This demonstrates how PCM can represent **dynamic signals such as audio or speec
 <summary>View Part D Image Result</summary>
 
 <p align="center">
-<img src="PCM/IMG_PCM_PartD.png" alt="PCM Encoding Continuous Signal" width="600">
+<img src="Results/laboratory files 12/12-D1.png" alt="PCM Encoding Continuous Signal" width="600">
 </p>
 
 </details>
