@@ -54,7 +54,7 @@ A filtering stage was used to restrict the signal’s bandwidth. This prevents u
 <summary>View Part A Image Result</summary>
 
 <p align="center">
-<img src="Undersampling/IMG_PartA.png" alt="Bandwidth Limited Signal Setup" width="600">
+<img src="Results/laboratory results 20/E20APART1.png" alt="Bandwidth Limited Signal Setup" width="600">
 </p>
 
 </details>
@@ -81,7 +81,8 @@ This demonstrates how undersampling can act as a **direct down-conversion techni
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="Undersampling/IMG_PartB.png" alt="Direct Down Conversion Using Undersampling" width="600">
+<img src="Results/laboratory results 20/E20PARTBPART1.png" alt="Direct Down Conversion Using Undersampling" width="600">
+<img src="Results/laboratory results 20/E20BPART2.png" alt="Direct Down Conversion Using Undersampling" width="600">
 </p>
 
 </details>
@@ -110,7 +111,7 @@ This part demonstrates that successful undersampling depends heavily on **clock 
 <summary>View Part C Image Result</summary>
 
 <p align="center">
-<img src="Undersampling/IMG_PartC.png" alt="Synchronization in Undersampling" width="600">
+<img src="Results/laboratory results 20/E20CPART1.png" alt="Synchronization in Undersampling" width="600">
 </p>
 
 </details>
