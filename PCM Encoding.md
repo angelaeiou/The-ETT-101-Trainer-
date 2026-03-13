@@ -45,7 +45,7 @@ This demonstrates how a PCM encoder converts a single analog value into a **spec
 
 <p align="center">
 <img src="Results/laboratory files 12/12-A1.png" alt="PCM Static DC Voltage Encoding" width="600">
-<img src="  Results/laboratory files 12/12-A2.png" alt="PCM Static DC Voltage Encoding" width="600">
+<img src="Results/laboratory files 12/12-A2.png" alt="PCM Static DC Voltage Encoding" width="600">
 </p>
 
 </details>
