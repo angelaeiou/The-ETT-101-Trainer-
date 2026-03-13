@@ -38,14 +38,6 @@ Despite this distortion, the PCM decoder was still able to interpret the digital
 - **Observation:** Digital pulses became slightly distorted after passing through the limited bandwidth channel  
 - **Result:** The PCM signal could still be decoded, but excessive bandwidth limitation may lead to decoding errors
 
-<details>
-<summary>View Part A Image Result</summary>
-
-<p align="center">
-<img src="Bandwidth/IMG_PartA.png" alt="Bandwidth Limiting on PCM Decoding" width="600">
-</p>
-
-</details>
 
 ---
 
@@ -62,7 +54,7 @@ As a result, the digital waveform appeared **rounded and smoother**, with slower
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="Bandwidth/IMG_PartB.png" alt="Digital Signal Shape After Bandwidth Limiting" width="600">
+<img src="Results/laboratory files 14/14BPART1.png" alt="Digital Signal Shape After Bandwidth Limiting" width="600">
 </p>
 
 </details>
@@ -82,7 +74,7 @@ Typically, a comparator or digital reshaping circuit is used to regenerate the w
 <summary>View Part C Image Result</summary>
 
 <p align="center">
-<img src="Bandwidth/IMG_PartC.png" alt="Restored Digital Signal" width="600">
+<img src="Results/laboratory files 14/14BPART2.png" alt="Restored Digital Signal" width="600">
 </p>
 
 </details>
