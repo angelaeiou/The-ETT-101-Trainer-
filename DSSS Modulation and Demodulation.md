@@ -49,7 +49,9 @@ The output waveform appeared noise-like because the signal energy was spread ove
 <summary>View Part A Image Result</summary>
 
 <p align="center">
-<img src="DSSS/IMG_PartA.png" alt="DSSS Simple Message" width="600">
+<img src="Results/laboratory files 19/FIG 1.png" alt="DSSS Simple Message" width="600">
+<img src="Results/laboratory files 19/fig 3.png" alt="DSSS Simple Message" width="600">
+  
 </p>
 
 </details>
@@ -69,7 +71,8 @@ The resulting waveform still appeared noise-like, but it carried the speech info
 <summary>View Part B Image Result</summary>
 
 <p align="center">
-<img src="DSSS/IMG_PartB.png" alt="DSSS Speech Signal" width="600">
+<img src="Results/laboratory files 19/fig 4.png" alt="DSSS Speech Signal" width="600">
+  
 </p>
 
 </details>
@@ -89,7 +92,8 @@ After filtering, the original message signal was recovered.
 <summary>View Part C Image Result</summary>
 
 <p align="center">
-<img src="DSSS/IMG_PartC.png" alt="DSSS Demodulation Using Product Detector" width="600">
+<img src="Results/laboratory files 19/fig 7.png" alt="DSSS Demodulation Using Product Detector" width="600">
+<img src=" Results/laboratory files 19/fig 8.png" alt="DSSS Demodulation Using Product Detector" width="600">
 </p>
 
 </details>
@@ -109,7 +113,8 @@ After despreading using the correct PN code, the desired signal was recovered, w
 <summary>View Part D Image Result</summary>
 
 <p align="center">
-<img src="DSSS/IMG_PartD.png" alt="DSSS With Jamming" width="600">
+<img src="Results/laboratory files 19/fig 10.png" alt="DSSS Demodulation Using Product Detector" width="600">
+<img src="Results/laboratory files 19/fig 11.png" alt="DSSS Demodulation Using Product Detector" width="600">
 </p>
 
 </details>
