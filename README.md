@@ -15,7 +15,7 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
 
  * [Frequency Modulation (FM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Frequency%20Modulation.md)
 * [Frequency Demodulation (FM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Frequency%20Demodulation.md)
-* [Sampling and Reconstruction](#sampling-and-reconstruction)
+* [Sampling and Reconstruction](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Sampling%20and%20Reconstruction.md)
 * [PCM Encoding](#pcm-encoding)
 * [PCM Decoding](#pcm-decoding)
 * [Bandwidth Limiting and Restoring Digital Signals](#bandwidth-limiting-and-restoring-digital-signals)
