@@ -1,4 +1,4 @@
-# The Emona Telecoms-Trainer 101 👾
+ # The Emona Telecoms-Trainer 101 👾
 This repository contains a collection of laboratory experiments for ETT 101 using the Emona Telecommunications Trainer. It is designed to help students understand fundamental communication and telecommunications principles through hands-on activities, practical measurements, and signal analysis.
 
 ## Table of Contents 📚
@@ -11,7 +11,39 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
   
 * [Mathematical Equation Modeling Using the ETT 101](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Mathematical%20Equation%20Modeling%20Using%20the%20ETT%20101.md)
 
-* [Amplitude Modulation (AM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Amplitude%20Modulation%20.md) 
+* [Amplitude Modulation (AM)](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Amplitude%20Modulation%20.md)
+
+ *[Frequency Modulation (FM)]
+
+ *[Frequency Demodulation (FM)]
+
+ *[Sampling and Reconstruction]
+
+ *[PCM Encoding]
+
+ *[PCM Decoding]
+
+ *[Bandwidth Limiting and restoring Digital Restoring]
+
+ *[Amplitude Shift Keying]
+
+ *[Frequency Shift Keying]
+
+ *[Binary Shift Keying]
+
+ *[Quadrature Phase Shift Keying]
+
+ *[Frequency Shift Keying]
+
+ *[DSSS modulation and demodulation]
+
+ *[Undersampling in software defined audio]
+
+  
+
+ 
+
+
   
 > Detailed data results and oscilloscope waveforms for this experiment can be found [here](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Results/Data%20Results%20.pdf).
 
