@@ -66,7 +66,7 @@ The two modulated outputs were summed to create the QPSK signal.
 
 ### Transmitter Block Diagram
 
-<img src="images/qpsk_tx.png" width="700">
+<img src="Results/laboratory files qpsk/figure 1.png" width="700">
 
 ---
 
@@ -78,9 +78,6 @@ To simulate practical transmission, the signal passed through a channel model th
 - phase shift  
 - additive noise  
 
-### Channel Model
-
-<img src="images/channel_model.png" width="700">
 
 ---
 
@@ -104,9 +101,9 @@ Each output was filtered to remove unwanted high-frequency components.
 ### Serial Reconstruction
 Recovered parallel bits were recombined into the original bit stream.
 
-### Receiver Block Diagram
 
-<img src="images/qpsk_rx.png" width="700">
+<img src="Results/laboratory files qpsk/figure 2.png" width="700">
+<img src="Results/laboratory files qpsk/fig7.png" width="700">
 
 ---
 
@@ -122,7 +119,7 @@ Noise was gradually added to observe system behavior.
 
 ### Noise Effect
 
-<img src="images/noise_signal.png" width="700">
+<img src="Results/laboratory files qpsk/noise.png" width="700">
 
 ---
 
@@ -130,11 +127,11 @@ Noise was gradually added to observe system behavior.
 
 ### Modulated Signal
 
-<img src="images/modulated_waveform.jpg" width="700">
+<img src="Results/laboratory files qpsk/mod.png" width="700">
 
 ### Recovered Output
 
-<img src="images/recovered_data.jpg" width="700">
+<img src="Results/laboratory files qpsk/demod.png" width="700">
 
 ---
 
