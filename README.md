@@ -25,7 +25,7 @@ This repository contains a collection of laboratory experiments for ETT 101 usin
 * [Quadrature Phase Shift Keying](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Quadrature%20Phase%20Shift%20Keying.md)
 * [DSSS Modulation and Demodulation](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/DSSS%20Modulation%20and%20Demodulation.md)
 * [Undersampling in Software Defined Audio](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/Undersampling%20in%20Software%20Defined%20Audio.md)
-* [QPSK Receiver Design and Baseband Reconstruction]
+* [QPSK Receiver Design and Baseband Reconstruction](https://github.com/angelaeiou/The-ETT-101-Trainer-/blob/main/QPSK%20Receiver%20Design%20and%20Baseband%20Reconstruction.md)
 
  
   
